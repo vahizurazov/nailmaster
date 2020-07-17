@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Nail master test
-image: /img/p90530-222746.jpg
+image: /img/hdrshooter-super-ultra-wide-wallpaper-022.jpg
 heading: Nail master test
-subheading: Support sustainable farming while enjoying a cup
+subheading: test
 mainpitch:
   title: Why Kaldi
   description: >
