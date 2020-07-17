@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Nail master test
-image: /img/hdrshooter-super-ultra-wide-wallpaper-022.jpg
+image: /img/bg.jpg
 heading: Nail master test
 subheading: test
 mainpitch:
